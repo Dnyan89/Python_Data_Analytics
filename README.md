@@ -106,7 +106,7 @@ _Bar chart showing salaries for the top 3 data roles and their top 5 associated 
 
 To track skill trends for Data Analysts in 2023, I filtered job postings by month and grouped the skills accordingly. This revealed the top 5 skills for each month, showing how their popularity changed throughout the year.
 
-Check out my notebook with detailed steps here: [3_Skills_Trend](3_Project\3_Skills_Trend.ipynb)
+Check out my notebook with detailed steps here: [3_Skills_Trend](3_Project/3_Skills_Trend.ipynb)
 
 ### Data Visualization
 
@@ -121,7 +121,7 @@ plt.show()
 ```
 
 ## Results
-![Trending Skills for Data Analyst in NL](3_Project\Images\Trending_Skills_for_Data_Analysts_NL.png)
+![Trending Skills for Data Analyst in NL](3_Project/Images/Trending_Skills_for_Data_Analysts_NL.png)
 
 _Bar chart showing the top trending skills for data analysts in the Netherlands for 2023._
 
@@ -138,7 +138,7 @@ _Bar chart showing the top trending skills for data analysts in the Netherlands 
 
 To find the highest-paying roles and skills, I focused on jobs in the Netherlands and checked their median salaries. I first reviewed the salary distributions for common data jobs like Data Scientist, Data Engineer, and Data Analyst to see which ones offer the highest pay.
 
-Check out my notebook with detailed steps here: [4_Salary_Analysis](3_Project\4_Salary_Analysis.ipynb)
+Check out my notebook with detailed steps here: [4_Salary_Analysis](3_Project/4_Salary_Analysis.ipynb)
 
 ### Data Visualization
 
@@ -155,7 +155,7 @@ plt.show()
 
 ### Results
 
-![Distribution of Salaries for Data Jobs in NL](3_Project\Images\Distribution_of_Salaries_for_Data_Jobs_NL.png)
+![Distribution of Salaries for Data Jobs in NL](3_Project/Images/Distribution_of_Salaries_for_Data_Jobs_NL.png)
 
 _Box plot showing the salary ranges for the top 6 data job titles._
 
@@ -199,7 +199,7 @@ plt.show()
 
 ### Results
 
-![To Paying and In-Demand Skills for Data Analysts in NL](3_Project\Images\Top_Paying_and_In_Demand_Skills_for_Data_Analysts_NL.png)
+![To Paying and In-Demand Skills for Data Analysts in NL](3_Project/Images/Top_Paying_and_In_Demand_Skills_for_Data_Analysts_NL.png)
 
 _Bar charts showing the highest-paid and most in-demand skills for data analysts in the Netherlands._
 
@@ -215,7 +215,7 @@ _Bar charts showing the highest-paid and most in-demand skills for data analysts
 
 To find the best skills to learn (those that are both highly paid and in demand), I calculated the percentage of job postings requiring each skill and their median salaries. This helps to easily spot the most valuable skills to acquire.
 
-Check out my notebook with detailed steps here: [5_Optimal_Skills](3_Project\5_Optimal_Skills.ipynb)
+Check out my notebook with detailed steps here: [5_Optimal_Skills](3_Project/5_Optimal_Skills.ipynb)
 
 ### Data Visualization
 
@@ -236,7 +236,7 @@ plt.show()
 
 ### Results
 
-![Optimal Skills for Data Analyst in NL](3_Project\Images\Optimal_Skills_for_Data_Analysts_NL.png)
+![Optimal Skills for Data Analyst in NL](3_Project/Images/Optimal_Skills_for_Data_Analysts_NL.png)
 
 _Scatter plot showing the best skills for data analysts in the Netherlands, based on high pay and high demand._
 
@@ -278,7 +278,7 @@ plt.show()
 
 ### Results
 
-![Most Optimal Skills for Data Analyst in NL](3_Project\Images\Most_Optimal_Skills_for_Data_Analysts_NL.png)
+![Most Optimal Skills for Data Analyst in NL](3_Project/Images/Most_Optimal_Skills_for_Data_Analysts_NL.png)
 
 _Scatter plot showing the best skills for data analysts in the US, with color labels for each technology._
 
