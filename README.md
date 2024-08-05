@@ -280,7 +280,7 @@ plt.show()
 
 ![Most Optimal Skills for Data Analyst in NL](3_Project/Images/Most_Optimal_Skills_for_Data_Analysts_NL.png)
 
-_Scatter plot showing the best skills for data analysts in the US, with color labels for each technology._
+_Scatter plot showing the best skills for data analysts in the Netherlands, with color labels for each technology._
 
 ### Key Findings
 
