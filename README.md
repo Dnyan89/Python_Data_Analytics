@@ -91,7 +91,7 @@ plt.show()
 ```
 ## Results
 
-![Skills In-Demand for Data Analyst in NL](3_ProjectImages/Skills_in_Demand_for_Data_Analysts_NL.png)
+![Skills In-Demand for Data Analyst in NL](3_Project/Images/Skills_in_Demand_for_Data_Analysts_NL.png)
 
 _Bar chart showing salaries for the top 3 data roles and their top 5 associated skills._
 
